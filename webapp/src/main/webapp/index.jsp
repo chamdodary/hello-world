@@ -224,7 +224,7 @@
                         <h4 class="text-uppercase mb-4">About Freelancer</h4>
                         <p class="lead mb-0">
                             Freelance is a free to use, MIT licensed Bootstrap theme created by
-                            <a href="http://startbootstrap.com">Start Bootstrap</a>
+                            <a href="http://startbootstrap.com">new Start Bootstrap</a>
                             .
                         </p>
                     </div>
@@ -235,7 +235,7 @@
         <div class="copyright py-4 text-center text-white">
             <div class="container"><small>Copyright © Your Website 2020</small></div>
         </div>
-        <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes)-->
+        <!-- Scroll to Top Button ()-->
         <div class="scroll-to-top d-lg-none position-fixed">
             <a class="js-scroll-trigger d-block text-center text-white rounded" href="#page-top"><i class="fa fa-chevron-up"></i></a>
         </div>
